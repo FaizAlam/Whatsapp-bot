@@ -13,8 +13,11 @@ def hello():
 def sms_reply():
     msg = request.form.get('Body')
     # Create reply
+    
+
+
     resp = MessagingResponse()
-    resp.message("You said: {}".format(msg))
+    resp.message("No matter what you say. I'll love you forever")
 
     return str(resp)
 
