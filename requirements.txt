@@ -17,7 +17,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
 packaging==20.9
-protobuf==3.17.0 
+protobuf==3.18.3 
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyJWT==2.1.0
@@ -29,7 +29,7 @@ requests-toolbelt==0.9.
 rsa==4.7.2
 six==1.16.0
 twilio==6.50.1
-urllib3==1.26.4
+urllib3==1.26.5
 Werkzeug==2.0.1
 wrapt==1.12.1
 yarl==1.6.3
