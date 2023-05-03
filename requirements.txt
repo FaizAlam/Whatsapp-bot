@@ -4,7 +4,7 @@ cffi==1.14.5
 chardet==4.0.0
 click==8.0.1
 dialogflow==1.1.0
-Flask==2.0.0
+Flask==2.2.5
 google-api-core==1.28.0
 google-auth==1.30.0
 google-auth-oauthlib==0.4.4
